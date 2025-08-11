@@ -1,3 +1,8 @@
+"""
+This script computes the nth Fibonacci number recursively.
+It prompts the user to enter a number and prints the result.
+"""
+
 def fibonacci(n):
     """Return the nth Fibonacci number."""
     if n == 0:
